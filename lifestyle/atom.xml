@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Guangyu321.github.io/lifestyle</id>
-    <title>峰华前端工程师</title>
+    <title>小苏前端工程师</title>
     <updated>2021-06-27T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://Guangyu321.github.io/lifestyle"/>
-    <subtitle>峰华前端工程师 Blog</subtitle>
+    <subtitle>小苏前端工程师 Blog</subtitle>
     <icon>https://Guangyu321.github.io/img/favicon.ico</icon>
-    <rights>Copyright © 2024 峰华 (张旭乾) Built with Docusaurus.&lt;p&gt;&lt;a href="http://beian.miit.gov.cn/" &gt;冀ICP备14007097号-3&lt;/a&gt;&lt;/p&gt;</rights>
+    <rights>Copyright © 2024 小苏 (张旭乾) Built with Docusaurus.&lt;p&gt;&lt;a href="http://beian.miit.gov.cn/" &gt;冀ICP备14007097号-3&lt;/a&gt;&lt;/p&gt;</rights>
     <entry>
         <title type="html"><![CDATA[人的情绪总是多变的，需要理智应对]]></title>
         <id>deal-with-people-emotions</id>

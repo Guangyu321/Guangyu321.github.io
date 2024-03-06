@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
     <channel>
-        <title>峰华前端工程师</title>
+        <title>小苏前端工程师</title>
         <link>https://Guangyu321.github.io/</link>
-        <description>峰华前端工程师 Blog</description>
+        <description>小苏前端工程师 Blog</description>
         <lastBuildDate>Sun, 27 Jun 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <copyright>Copyright © 2024 峰华 (张旭乾) Built with Docusaurus.&lt;p&gt;&lt;a href="http://beian.miit.gov.cn/" class="footer_lin"&gt;冀ICP备14007097号-3&lt;/a&gt;&lt;/p&gt;</copyright>
+        <copyright>Copyright © 2024 小苏 (张旭乾) Built with Docusaurus.&lt;p&gt;&lt;a href="http://beian.miit.gov.cn/" class="footer_lin"&gt;冀ICP备14007097号-3&lt;/a&gt;&lt;/p&gt;</copyright>
         <item>
             <title><![CDATA[如何快速学会一门编程语言]]></title>
             <link>https://Guangyu321.github.io/how-to-learn-a-programming-language-quickly</link>
