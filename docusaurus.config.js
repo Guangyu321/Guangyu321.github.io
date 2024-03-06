@@ -3,16 +3,35 @@ const math = require("remark-math");
 const katex = require("rehype-katex");
 const adsense = require("./src/plugin/remark-adsense");
 
+
+const config={
+  title: '彦',
+  tagline: '我说爱你，请你一定相信，这一切',
+  url: 'https://Guangyu321.github.io',
+  baseUrl: '/',
+  onBrokenLinks: 'throw',
+  onBrokenMarkdownLinks: 'warn',
+  favicon: 'img/favicon.ico',
+
+  // GitHub pages deployment config.
+  // If you aren't using GitHub pages, you don't need these.
+  organizationName: 'Guangyu321', // Usually your GitHub org/user name.
+  projectName: 'Guangyu321.github.io', // Usually your repo name.
+  deploymentBranch: 'gy-pages',
+  trailingSlash: false,
+
+}
+
 module.exports = {
   title: "峰华前端工程师",
   // tagline:
   //   "帮助你提升前端开发技能，分享 HTML、CSS、JavaScript、React 和 Vue 等开发实战经验",
   titleDelimiter: "-",
-  url: "https://zxuqian.cn",
+  url: "https://Guangyu321.github.io",
   baseUrl: "/",
   favicon: "img/favicon.ico",
-  organizationName: "zxuqian", // Usually your GitHub org/user name.
-  projectName: "zxuqian.cn", // Usually your repo name.
+  organizationName: "Guangyu321", // Usually your GitHub org/user name.
+  projectName: "Guangyu321.github.io", // Usually your repo name.
   themeConfig: {
     image: "img/fenghua.jpg",
     announcementBar: {
