@@ -178,15 +178,15 @@ module.exports = {
           title: "友情链接",
           items: [
             {
-              label: "yuqing521のblog",
+              label: "blog",
               to: "https://yuqing521.github.io/",
             },
             {
-              label: "lookroot的个人空间",
+              label: "个人空间",
               to: "https://www.lookroot.cn/",
             },
             {
-              label: "潜心专研的小张同学",
+              label: "小张同学",
               to: "https://zhangqiang.vercel.app/",
             },
           ],
